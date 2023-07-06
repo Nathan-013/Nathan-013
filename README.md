@@ -1,17 +1,31 @@
-<h1>Seja Bem-Vindo! 🐱‍👤</h1>
+# Nathan Moreira
 
-<div align="center">
+Front-End Developer
+
+[![Linkedin Badge](https://img.shields.io/badge/-Nathan%20Moreira-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathan-moreira-44a5a71b4/)](https://www.linkedin.com/in/nathan-moreira-44a5a71b4/) 
+
+Tenho 22 anos e sou um estudante de Ciência da Computação, atualmente no 7º perído, e apaixonado por programação, tecnologia e computação. Sigo em constante aprendizado para aprimorar meus conhecimentos e técnicas.
+
+</br>
+
+<div align="">
   <a href="https://github.com/Nathan-013">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nathan-013&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false"/>
-  <img height="120em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-013&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nathan-013&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="120em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-013&layout=compact&langs_count=7&theme=gotham"/>
 </div>
+
+</br></br>
+
+
+
+### 🌱 Atualmente estou aprendendo: 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ##
-### Tecnologias que uso/estudo atualmente
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-</div>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+
